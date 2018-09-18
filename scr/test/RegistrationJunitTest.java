@@ -17,7 +17,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
  * @author Suvarna
  *
  */
-class UmbrellarJunitTest {
+class RegistrationJunitTest {
 
 	@Test
 	/**
