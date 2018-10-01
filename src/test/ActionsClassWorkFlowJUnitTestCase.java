@@ -1,4 +1,4 @@
-package SeleniumTestCases;
+package test;
 
 import static org.junit.Assert.assertTrue;
 import java.util.concurrent.TimeUnit;
