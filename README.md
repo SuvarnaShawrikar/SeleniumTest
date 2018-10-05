@@ -12,4 +12,6 @@ This Repository contains Selenium Automation Tests
  * WindowHandler API- getWindowHandles()
  * and JavaScript Pop up - Alert messages: Alert API (accept,dismiss).
  
+ 5. src/test/HeadlessJunitTest.java - Class contains two test scenarios for Headless Browser testing - one using Chrome Browser & another using HtmlUnitDriver.
  
+ 6. src/test/NewContactWorkFlowJunitTestCase.java - Class contains the work flow of freecrm.com, it creates the two new contacts, one using contact tab and other using quick contact. After that it verify the contacts are present or not by taking screenshot and then delete all the contacts created.
